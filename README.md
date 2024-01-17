@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajinkya1211
-- 👀 I’m interested in C Programming and Python Programming
-- 🌱 I’m currently learning Instrumentation Engineering
-- 💞️ I’m looking to collaborate on Placements
+- 👀 I’m interested in Full Stack Developer and Software Engineer
+- 🌱 I’m Graduated as a Instrumentation and Control Engineer in 2023
+- 💞️ I’m looking to Collaborate on Placements
 - 📫 How to reach me ajinkyajoshi226@gmail.com
 
 <!---
